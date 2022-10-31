@@ -1,4 +1,4 @@
 # cypress-api-tutorial
-- consume de api de produtos
-- busca preço usd, brl, btc
+- consumo de api de produtos
+- busca preços usd, brl, bitcoin
 - faz comparação teste
